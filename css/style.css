@@ -56,6 +56,11 @@ puede resolver para lograr que algo este al centro dentro de otro contenedor*/
   background-color: var(--copper);
 }
 
+.gradient{
+  background: linear-gradient(90deg, rgba(217,137,137,1) 0%, rgba(242,208,208,1) 35%, rgba(242,183,5,1) 100%);
+  height: 4px;
+}
+
 
 
 /* intro styles */
@@ -172,6 +177,7 @@ nav [class*="fa-"]:hover {
 
 footer{
    text-align: center;
+   padding: 4rem 0;
 }
 
 footer ul{
