@@ -48,9 +48,20 @@ p{
   font-family: var(--secondary-font);
 }
 
+/*Sin este color el cuadro con la contact section era muy pequenio y el resto del color era otro, un cuadro
+dentro de otro. Entonces todo lo que este dentro de este div tendra este color y no se notara la diferencia. Esto
+puede resolver para lograr que algo este al centro dentro de otro contenedor*/
+.contact-section{
+  background-color: var(--pink);
+}
+
+
+
 /* intro styles */
 #intro {
-    padding-bottom: 10rem;
+    padding: 4rem 1rem 10rem 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
 #intro p {
@@ -81,7 +92,11 @@ p{
     width: 400px;
     text-align: center;
     margin: 0 auto;
-  padding: 3rem 0;
+    padding: 3rem 0;
+}
+
+#contact p{
+  font-size: 90%;
 }
 
 #contact p:last-child {
@@ -144,7 +159,7 @@ nav [class*="fa-"]:hover {
   background-color: var(--orange);
   color: var(--white);
   padding: 0.5rem;
-  border-radius: 5px
+  border-radius: 5px;
 }
 
 .button:hover{
