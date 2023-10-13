@@ -1,5 +1,5 @@
 :root {
-    --black: #171321;
+    --black: #171321;    
     --yellow: #F2B705;
     --orange: #D98E04;
     --copper: #A65D03;
@@ -37,6 +37,7 @@ h3 {
 a {
     color: var(--pink);
     text-decoration: none;
+    
 }
 
 a:hover {
@@ -52,7 +53,7 @@ p{
 dentro de otro. Entonces todo lo que este dentro de este div tendra este color y no se notara la diferencia. Esto
 puede resolver para lograr que algo este al centro dentro de otro contenedor*/
 .contact-section{
-  background-color: var(--pink);
+  background-color: var(--copper);
 }
 
 
@@ -102,6 +103,8 @@ puede resolver para lograr que algo este al centro dentro de otro contenedor*/
 #contact p:last-child {
     margin-top: 3rem;
 }
+
+
 
 nav{
   font-family: var(--secondary-font);
