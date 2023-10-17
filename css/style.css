@@ -4,8 +4,10 @@
     --orange: #D98E04;
     --copper: #A65D03;
     --pink: #D98989;
-    --bbypink: #F2D0D0;
-    --white: #f7f8fa;
+    --bbypink: #F2D0D0;      
+    --bluenavy: #295073;
+    --aqua:#517C8C;
+    --white: #f7f8fa;  
     --font-size: 1.1rem;
     --main-font: "Libre Baskerville", serif;
     --secondary-font: "Source serif 4", serif;
@@ -53,7 +55,7 @@ p{
 dentro de otro. Entonces todo lo que este dentro de este div tendra este color y no se notara la diferencia. Esto
 puede resolver para lograr que algo este al centro dentro de otro contenedor*/
 .contact-section{
-  background-color: var(--copper);
+  background-color: var(--bluenavy);
 }
 
 .gradient{
