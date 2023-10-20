@@ -262,6 +262,11 @@ article{
   
 }
 
+#projects {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
 #projects img{
   grid-column: 1/6;
   grid-row: 1/2;
@@ -299,13 +304,6 @@ article{
 #projects .reverse ul{
   justify-content: flex-start;
 }
-
-
-
-
-
-
-
 }
 
 @media (min-width: 850px) {
