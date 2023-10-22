@@ -4,7 +4,7 @@
 
 <hr>
 
-## Notion Page
+<h2>Notion Page</h2>
 Along the way of the making of the process of building this portfolio I watched tutorials regarding HTML and CSS. However, since I was more interested in learning more of CSS I have more notes about CSS and some of HTML. All these notes are in a Notion page I created. 
 
 <a href="https://seasoned-pound-cb0.notion.site/CSS-423b43d8b8d14e98ab65f48c0d4affbc?pvs=4">Make sure to to check my notes on CSS on Notion!</a>
