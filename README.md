@@ -1,6 +1,6 @@
 <h1 align="center">Personal Web Portfolio 📓</h1> 
 
-<p>This is a two-page web portfolio of my own made from scratch only with HTML and CSS. The purpose of this project was to reinforce my knowledge in HTML and CSS and put into something usefull like a portfolio with projects and ways to contact myself. </p>
+<p>This is a two-page web portfolio of my own made from scratch only with HTML and CSS. The purpose of this project was to reinforce my knowledge in HTML and CSS and put into something useful like a portfolio with projects and ways to contact myself. </p>
 
 <hr>
 
