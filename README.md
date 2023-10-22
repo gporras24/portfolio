@@ -8,5 +8,5 @@ This is a two-page web portfolio of my own made from scratch only with HTML and 
 Along the way of the making of the process of building this portfolio I watched tutorials regarding HTML and CSS. However, since I was more interested in learning more of CSS I have more notes about CSS and some of HTML. All these notes are in a Notion page I created. 
 
 > [!NOTE]
-> If you speak both English and Spanish these notes will be more than helpful for you!
+> If you speak both English and Spanish these notes will be more than helpful for you! 🌟
 
