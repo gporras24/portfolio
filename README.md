@@ -2,7 +2,7 @@
 
 This is a two-page web portfolio of my own made from scratch only with HTML and CSS. The purpose of this project was to reinforce my knowledge in HTML and CSS and put into something useful like a portfolio with projects and ways to contact myself. 
 
-
+This is the final look of the portfolio https://github.com/gporras24/portfolio/assets/106274902/2b6e60ef-aa40-48d3-9244-484cae42bba2
 
 ## **Notion Page**
 
@@ -13,4 +13,4 @@ Along the way of the making of the process of building this portfolio I watched 
 > [!NOTE]
 > If you speak both English and Spanish these notes will be more than helpful for you! 🌟
 
-[Geraldine's Portfolio.webm](https://github.com/gporras24/portfolio/assets/106274902/74355704-d317-4272-90a2-ee586dc2fff1)
+
