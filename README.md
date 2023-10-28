@@ -2,7 +2,7 @@
 
 This is a two-page web portfolio of my own made from scratch only with HTML and CSS. The purpose of this project was to reinforce my knowledge in HTML and CSS and put into something useful like a portfolio with projects and ways to contact myself. 
 
-This is the final look of the portfolio 
+This is the final look of the portfolio!
 ![Geraldine´s-portfolio-](https://github.com/gporras24/portfolio/assets/106274902/e15854e2-7445-45a8-bc27-b1224fe67de4)
 
 
