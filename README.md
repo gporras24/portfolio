@@ -13,4 +13,3 @@ Along the way of the making of the process of building this portfolio I watched 
 > [!NOTE]
 > If you speak both English and Spanish these notes will be more than helpful for you! 🌟
 
-<div style="position: relative; padding-bottom: 124.13793103448276%; height: 0;"><iframe src="https://www.loom.com/embed/61aa08c493794e8eacbc1628d00151d5?sid=f56465c4-aac6-4a32-81ae-06834a9f5951" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
