@@ -13,3 +13,4 @@ Along the way of the making of the process of building this portfolio I watched 
 > [!NOTE]
 > If you speak both English and Spanish these notes will be more than helpful for you! 🌟
 
+[Geraldine's Portfolio.webm](https://github.com/gporras24/portfolio/assets/106274902/74355704-d317-4272-90a2-ee586dc2fff1)
